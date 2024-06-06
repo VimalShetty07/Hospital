@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+.env
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# If you're using Django Debug Toolbar
+debug_toolbar/
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Local configuration
+local_settings.py
+*.env
+
+# If you're using macOS:
+.DS_Store
+
+# If you're using Linux:
+*.swp
+
+# If you're using Windows:
+Thumbs.db
+*.bak
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Migrations
+migrations/
+
+# mypy
+.mypy_cache/
+
+# coverage reports
+htmlcov/
+coverage.xml
+
+# pytest
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Other
+*.log
